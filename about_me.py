@@ -1,3 +1,4 @@
+# Instructions: run python3 about_me.py in your terminal
 
 # === Header ===
 print("="*40) 
@@ -22,7 +23,6 @@ print(f"City: {city}")
 print(f"Previous Career: {occupation}")
 print(f"\nWhy I'm learning to code: {question}")
 print(f"\nFun fact: {fun_fact}")
-
 
 
 
